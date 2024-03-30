@@ -57,4 +57,4 @@ if __name__ == "__main__":
         plt.gca().xaxis.set_major_formatter(mticker.FormatStrFormatter('%.0fm'))
         plt.tight_layout()
         plt.legend(loc='best')
-        plt.savefig("kitti_{}_VILO.png".format(directory))
+        plt.savefig("kitti_{}.png".format(directory))
