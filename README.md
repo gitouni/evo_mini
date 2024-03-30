@@ -15,3 +15,7 @@ Put your tum-formatted trajectories in Directories:
   VINS_MONO.txt
 ```
 and then run the `draw.py` file.
+Demo Figs are shown below:
+|08|09|
+|---|---|
+|![](./kitti_08_4.png)|![](./kitti_09_4.png)|
